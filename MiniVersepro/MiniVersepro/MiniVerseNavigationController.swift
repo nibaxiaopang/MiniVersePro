@@ -1,14 +1,13 @@
 //
-//  SettingViewController.swift
+//  MiniVerseNavigationController.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
-
 
 import UIKit
 
-class SettingViewController: UIViewController {
+class MiniVerseNavigationController: UINavigationController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,11 +15,10 @@ class SettingViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
     
-
-    @IBAction func back(_ sender: UIButton) {
-        navigationController?.popViewController(animated: true)
+    override var supportedInterfaceOrientations: UIInterfaceOrientationMask {
+        return .portrait
     }
-    
+
     /*
     // MARK: - Navigation
 

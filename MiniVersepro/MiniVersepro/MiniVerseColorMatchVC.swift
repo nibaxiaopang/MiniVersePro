@@ -2,13 +2,13 @@
 //  ColorMatchVC.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 
 import UIKit
 
-class ColorMatchVC: UIViewController {
+class MiniVerseColorMatchVC: UIViewController {
     
     // UI Elements
     var targetColorLabel: UILabel!

@@ -2,14 +2,14 @@
 //  TapBlastArenaVC.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 
 import UIKit
 import AVFoundation
 
-class TapBlastArenaVC: UIViewController {
+class MiniVerseTapBlastArenaVC: UIViewController {
     
     // UI Elements
     var scoreLabel: UILabel!

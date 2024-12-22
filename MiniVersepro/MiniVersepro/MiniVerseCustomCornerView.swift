@@ -2,13 +2,13 @@
 //  CustomCornerView.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 import UIKit
 
 @IBDesignable
-class CustomCornerView: UIView {
+class MiniVerseCustomCornerView: UIView {
 
     @IBInspectable var topLeftCornerRadius: Bool = false {
         didSet {

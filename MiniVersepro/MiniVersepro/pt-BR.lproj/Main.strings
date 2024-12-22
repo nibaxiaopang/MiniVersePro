@@ -1,0 +1,63 @@
+
+/* Class = "UINavigationItem"; title = "About Us"; ObjectID = "0ea-5P-Vdd"; */
+"0ea-5P-Vdd.title" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "Let's Play"; ObjectID = "0gq-i6-2Mt"; */
+"0gq-i6-2Mt.normalTitle" = "Let's Play";
+
+/* Class = "UITextField"; placeholder = "Share your email, we'll reach out!"; ObjectID = "2Hu-9b-9Ip"; */
+"2Hu-9b-9Ip.placeholder" = "Share your email, we'll reach out!";
+
+/* Class = "UILabel"; text = "Your Email"; ObjectID = "5Gt-1J-2gj"; */
+"5Gt-1J-2gj.text" = "Your Email";
+
+/* Class = "UILabel"; text = "TapBlast Arena"; ObjectID = "5Ij-fn-EJH"; */
+"5Ij-fn-EJH.text" = "TapBlast Arena";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "Bju-uX-aa6"; */
+"Bju-uX-aa6.text" = "Rate us";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "C50-ff-Te3"; */
+"C50-ff-Te3.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Setting"; ObjectID = "FB5-Q6-G2E"; */
+"FB5-Q6-G2E.text" = "Setting";
+
+/* Class = "UILabel"; text = "MiniVersepro"; ObjectID = "FF4-PR-Vwv"; */
+"FF4-PR-Vwv.text" = "MiniVersepro";
+
+/* Class = "UILabel"; text = "Rate us"; ObjectID = "Fif-IA-iUg"; */
+"Fif-IA-iUg.text" = "Rate us";
+
+/* Class = "UILabel"; text = "TapBlast Arena"; ObjectID = "Haq-GR-30M"; */
+"Haq-GR-30M.text" = "TapBlast Arena";
+
+/* Class = "UINavigationItem"; title = "About Us"; ObjectID = "KKK-aK-94D"; */
+"KKK-aK-94D.title" = "About Us";
+
+/* Class = "UILabel"; text = "Tap The Shape"; ObjectID = "R9w-GF-Qpr"; */
+"R9w-GF-Qpr.text" = "Tap The Shape";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Rvy-jH-lTL"; */
+"Rvy-jH-lTL.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "UQR-mZ-7yr"; */
+"UQR-mZ-7yr.text" = "Message";
+
+/* Class = "UITextView"; text = "About Us\nWelcome to MiniVerse Pro, your one-stop destination for vibrant and engaging color-based games! Designed to challenge your reflexes, sharpen your focus, and keep you entertained, MiniVerse Pro offers a collection of three exciting games:\n\nTapBlast Arena:\nEnter the fast-paced world of TapBlast Arena, where you tap colorful balls to rack up points! But beware of the tricky bomb balls—only quick reflexes and sharp observation will get you the high score.\n\nColor Match:\nTest your color recognition skills! Match the target color by tapping the correct button before time runs out. A perfect blend of fun and cognitive challenge for players of all ages.\n\nTap the Shape:\nDive into a world of shapes! Tap the shape that matches the target to score points. With each round bringing a new challenge, this game is simple, addictive, and perfect for casual play.\n\nOur Mission\nAt MiniVerse Pro, we aim to create games that are simple, intuitive, and endlessly enjoyable. Whether you're looking for a quick gaming session or a fun activity to sharpen your skills, our games are designed to provide a delightful experience for players of all ages.\n\nWhy MiniVerse Pro?\nKid-Friendly and Fun: Bright colors, playful animations, and simple mechanics make our games accessible and entertaining for everyone.\nTest Your Skills: Improve your reaction time, focus, and recognition with engaging challenges.\nLightweight and Fast: Quick to download, easy to play, and perfect for on-the-go fun.\nJoin the MiniVerse!\nStep into a colorful world of fun and challenge. Whether you’re popping colorful balls, matching shapes, or racing against time, MiniVerse Pro guarantees hours of joy. Download now and start your adventure today!\n\n"; ObjectID = "V1F-kO-pkL"; */
+"V1F-kO-pkL.text" = "About Us\nWelcome to MiniVerse Pro, your one-stop destination for vibrant and engaging color-based games! Designed to challenge your reflexes, sharpen your focus, and keep you entertained, MiniVerse Pro offers a collection of three exciting games:\n\nTapBlast Arena:\nEnter the fast-paced world of TapBlast Arena, where you tap colorful balls to rack up points! But beware of the tricky bomb balls—only quick reflexes and sharp observation will get you the high score.\n\nColor Match:\nTest your color recognition skills! Match the target color by tapping the correct button before time runs out. A perfect blend of fun and cognitive challenge for players of all ages.\n\nTap the Shape:\nDive into a world of shapes! Tap the shape that matches the target to score points. With each round bringing a new challenge, this game is simple, addictive, and perfect for casual play.\n\nOur Mission\nAt MiniVerse Pro, we aim to create games that are simple, intuitive, and endlessly enjoyable. Whether you're looking for a quick gaming session or a fun activity to sharpen your skills, our games are designed to provide a delightful experience for players of all ages.\n\nWhy MiniVerse Pro?\nKid-Friendly and Fun: Bright colors, playful animations, and simple mechanics make our games accessible and entertaining for everyone.\nTest Your Skills: Improve your reaction time, focus, and recognition with engaging challenges.\nLightweight and Fast: Quick to download, easy to play, and perfect for on-the-go fun.\nJoin the MiniVerse!\nStep into a colorful world of fun and challenge. Whether you’re popping colorful balls, matching shapes, or racing against time, MiniVerse Pro guarantees hours of joy. Download now and start your adventure today!\n\n";
+
+/* Class = "UILabel"; text = "Tap The Color"; ObjectID = "WLM-Ok-xsQ"; */
+"WLM-Ok-xsQ.text" = "Tap The Color";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "Ygm-ke-hbb"; */
+"Ygm-ke-hbb.text" = "About us";
+
+/* Class = "UILabel"; text = "Your Message"; ObjectID = "oeY-Q2-D3B"; */
+"oeY-Q2-D3B.text" = "Your Message";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "p3v-5D-0N0"; */
+"p3v-5D-0N0.text" = "About us";
+
+/* Class = "UILabel"; text = "Message"; ObjectID = "pxE-ow-SBF"; */
+"pxE-ow-SBF.text" = "Message";

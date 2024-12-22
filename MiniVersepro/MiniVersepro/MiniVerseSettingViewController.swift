@@ -1,13 +1,14 @@
 //
-//  MiniVersePrivacyController.swift
+//  SettingViewController.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
+
 
 import UIKit
 
-class MiniVersePrivacyController: UIViewController {
+class MiniVerseSettingViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,6 +17,10 @@ class MiniVersePrivacyController: UIViewController {
     }
     
 
+    @IBAction func back(_ sender: UIButton) {
+        navigationController?.popViewController(animated: true)
+    }
+    
     /*
     // MARK: - Navigation
 

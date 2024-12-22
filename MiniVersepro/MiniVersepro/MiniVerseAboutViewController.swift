@@ -2,13 +2,13 @@
 //  AboutViewController.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 
 import UIKit
 
-class AboutViewController: UIViewController {
+class MiniVerseAboutViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

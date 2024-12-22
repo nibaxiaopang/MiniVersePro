@@ -1,13 +1,13 @@
 //
-//  MiniVerseNavigationController.swift
-//  MiniVerse pro
+//  MiniVerseHomeChooseVC.swift
+//  MiniVersepro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 import UIKit
 
-class MiniVerseNavigationController: UINavigationController {
+class MiniVerseHomeChooseVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -15,9 +15,6 @@ class MiniVerseNavigationController: UINavigationController {
         // Do any additional setup after loading the view.
     }
     
-    override var supportedInterfaceOrientations: UIInterfaceOrientationMask {
-        return .portrait
-    }
 
     /*
     // MARK: - Navigation

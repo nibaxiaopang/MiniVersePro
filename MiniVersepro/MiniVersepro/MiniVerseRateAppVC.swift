@@ -2,12 +2,12 @@
 //  FeedbackVC.swift
 //  MiniVerse pro
 //
-//  Created by jin fu on 2024/12/22.
+//  Created by MiniVerse pro on 2024/12/22.
 //
 
 import UIKit
 
-class FeedbackVC: UIViewController {
+class MiniVerseRateAppVC: UIViewController {
     
     @IBOutlet weak var btnOneStar: UIButton!
     @IBOutlet weak var btnFourStar: UIButton!
